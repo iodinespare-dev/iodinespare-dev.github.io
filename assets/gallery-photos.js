@@ -1,0 +1,23 @@
+/* 由 update_photos.py 自動產生，請勿手動修改 */
+window.GALLERY_PHOTOS = [
+  {"thumb": "images/gallery/thumb/001.jpg", "full": "images/gallery/full/001.jpg", "name": "2b024d5d-cb58-4ebb-8118-fb77d3b0be79.jpeg"},
+  {"thumb": "images/gallery/thumb/002.jpg", "full": "images/gallery/full/002.jpg", "name": "ba43b95b-4412-4e5d-9b41-4bc740479996.jpeg"},
+  {"thumb": "images/gallery/thumb/003.jpg", "full": "images/gallery/full/003.jpg", "name": "c5d4453d-39fd-4a48-89d2-a703849f94e0.jpeg"},
+  {"thumb": "images/gallery/thumb/004.jpg", "full": "images/gallery/full/004.jpg", "name": "WechatIMG1013.jpg"},
+  {"thumb": "images/gallery/thumb/005.jpg", "full": "images/gallery/full/005.jpg", "name": "WechatIMG1014.jpg"},
+  {"thumb": "images/gallery/thumb/006.jpg", "full": "images/gallery/full/006.jpg", "name": "WechatIMG1291.jpg"},
+  {"thumb": "images/gallery/thumb/007.jpg", "full": "images/gallery/full/007.jpg", "name": "WechatIMG1294.jpg"},
+  {"thumb": "images/gallery/thumb/008.jpg", "full": "images/gallery/full/008.jpg", "name": "WechatIMG1295.jpg"},
+  {"thumb": "images/gallery/thumb/009.jpg", "full": "images/gallery/full/009.jpg", "name": "WechatIMG1296.jpg"},
+  {"thumb": "images/gallery/thumb/010.jpg", "full": "images/gallery/full/010.jpg", "name": "WechatIMG1297.jpg"},
+  {"thumb": "images/gallery/thumb/011.jpg", "full": "images/gallery/full/011.jpg", "name": "WechatIMG1351.jpg"},
+  {"thumb": "images/gallery/thumb/012.jpg", "full": "images/gallery/full/012.jpg", "name": "WechatIMG1611.jpg"},
+  {"thumb": "images/gallery/thumb/013.jpg", "full": "images/gallery/full/013.jpg", "name": "WechatIMG1612.jpg"},
+  {"thumb": "images/gallery/thumb/014.jpg", "full": "images/gallery/full/014.jpg", "name": "WechatIMG1682.jpg"},
+  {"thumb": "images/gallery/thumb/015.jpg", "full": "images/gallery/full/015.jpg", "name": "WechatIMG1775.jpg"},
+  {"thumb": "images/gallery/thumb/016.jpg", "full": "images/gallery/full/016.jpg", "name": "WechatIMG1776.jpg"},
+  {"thumb": "images/gallery/thumb/017.jpg", "full": "images/gallery/full/017.jpg", "name": "WechatIMG1967.jpg"},
+  {"thumb": "images/gallery/thumb/018.jpg", "full": "images/gallery/full/018.jpg", "name": "WechatIMG1968.jpg"},
+  {"thumb": "images/gallery/thumb/019.jpg", "full": "images/gallery/full/019.jpg", "name": "WechatIMG1970.jpg"},
+  {"thumb": "images/gallery/thumb/020.jpg", "full": "images/gallery/full/020.jpg", "name": "WechatIMG1972.jpg"},
+];

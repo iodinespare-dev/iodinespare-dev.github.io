@@ -1,0 +1,130 @@
+<svg viewBox="0 0 680 1076" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" font-family="-apple-system, 'PingFang TC', 'Noto Sans TC', sans-serif">
+<title>朽木毅行者籌款網站架構與風格方向</title>
+<desc>圖表分四部分：色彩基因（六個品牌色）、字體方向、圖形元素，以及由上而下的單頁網站地圖共十一個區塊。</desc>
+
+<rect x="0" y="0" width="680" height="1076" fill="#F7F3EE"/>
+
+<text x="40" y="44" font-size="15" font-weight="500" fill="#1A1416">朽木毅行者 · 網站架構與風格方向</text>
+<text x="40" y="64" font-size="12" fill="#8A7F7C">2026 樂施會毅行者　|　2026 年 11 月 20 – 21 日（星期五至星期六）　|　單頁式籌款網站　|　手機優先</text>
+
+<text x="40" y="94" font-size="12" font-weight="500" fill="#A6303E">01　風格基因 · 色彩</text>
+
+<rect x="40" y="104" width="90" height="56" rx="10" fill="#532F39"/>
+<text x="85" y="132" font-size="11" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">#532F39</text>
+<text x="85" y="176" font-size="12" fill="#1A1416" text-anchor="middle">深酒紅</text>
+<text x="85" y="192" font-size="11" fill="#8A7F7C" text-anchor="middle">主色 · 隊 Tee 原色</text>
+
+<rect x="142" y="104" width="90" height="56" rx="10" fill="#7C303C"/>
+<text x="187" y="132" font-size="11" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">#7C303C</text>
+<text x="187" y="176" font-size="12" fill="#1A1416" text-anchor="middle">酒紅</text>
+<text x="187" y="192" font-size="11" fill="#8A7F7C" text-anchor="middle">區塊與層次</text>
+
+<rect x="244" y="104" width="90" height="56" rx="10" fill="#A6303E"/>
+<text x="289" y="132" font-size="11" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">#A6303E</text>
+<text x="289" y="176" font-size="12" fill="#1A1416" text-anchor="middle">亮紅</text>
+<text x="289" y="192" font-size="11" fill="#8A7F7C" text-anchor="middle">CTA · 進度條</text>
+
+<rect x="346" y="104" width="90" height="56" rx="10" fill="#F7F3EE" stroke="#E6DCD8" stroke-width="0.5"/>
+<text x="391" y="132" font-size="11" fill="#8A7F7C" text-anchor="middle" dominant-baseline="central">#F7F3EE</text>
+<text x="391" y="176" font-size="12" fill="#1A1416" text-anchor="middle">米白</text>
+<text x="391" y="192" font-size="11" fill="#8A7F7C" text-anchor="middle">頁面底色</text>
+
+<rect x="448" y="104" width="90" height="56" rx="10" fill="#1A1416"/>
+<text x="493" y="132" font-size="11" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">#1A1416</text>
+<text x="493" y="176" font-size="12" fill="#1A1416" text-anchor="middle">墨黑</text>
+<text x="493" y="192" font-size="11" fill="#8A7F7C" text-anchor="middle">標題文字</text>
+
+<rect x="550" y="104" width="90" height="56" rx="10" fill="#5A7DB5"/>
+<text x="595" y="132" font-size="11" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">#5A7DB5</text>
+<text x="595" y="176" font-size="12" fill="#1A1416" text-anchor="middle">天空藍</text>
+<text x="595" y="192" font-size="11" fill="#8A7F7C" text-anchor="middle">照片點綴 · 少量</text>
+
+<text x="40" y="226" font-size="12" font-weight="500" fill="#A6303E">02　風格基因 · 字體</text>
+<text x="40" y="252" font-family="'LXGW WenKai TC','Songti TC','Noto Serif TC',serif" font-size="22" font-weight="400" fill="#532F39">朽木猶可雕　歷練成君子</text>
+<text x="40" y="270" font-size="11" fill="#8A7F7C">標題 — LXGW WenKai TC 霞鶩文楷繁體（繁體字完整收錄，不跳字型）</text>
+<text x="40" y="296" font-size="13" fill="#1A1416">山高路遠，風雨不改；夜深星稀，腳步不停。</text>
+<text x="40" y="314" font-size="11" fill="#8A7F7C">內文 — 思源黑體 Noto Sans TC，13–16px，行高 1.7</text>
+
+<text x="40" y="348" font-size="12" font-weight="500" fill="#A6303E">03　風格基因 · 圖形元素（沿用隊 Tee）</text>
+<rect x="40" y="358" width="190" height="44" rx="10" fill="#FAF7F4" stroke="#E6DCD8" stroke-width="0.5"/>
+<text x="135" y="380" font-size="12" fill="#1A1416" text-anchor="middle" dominant-baseline="central">隊 Tee 主色延伸</text>
+<rect x="245" y="358" width="190" height="44" rx="10" fill="#FAF7F4" stroke="#E6DCD8" stroke-width="0.5"/>
+<text x="340" y="380" font-size="12" fill="#1A1416" text-anchor="middle" dominant-baseline="central">山系質感 · 米白紙底</text>
+<rect x="450" y="358" width="190" height="44" rx="10" fill="#FAF7F4" stroke="#E6DCD8" stroke-width="0.5"/>
+<text x="545" y="380" font-size="12" fill="#1A1416" text-anchor="middle" dominant-baseline="central">麥理浩徑路線圖</text>
+
+<text x="40" y="436" font-size="12" font-weight="500" fill="#A6303E">04　網站地圖 · 單頁由上而下（數字即閱讀順序）</text>
+
+<path d="M64 472 L64 1032" fill="none" stroke="#E6DCD8" stroke-width="0.5"/>
+
+<rect x="40" y="448" width="600" height="48" rx="10" fill="#FBEFF0" stroke="#D9A3A8" stroke-width="0.5"/>
+<circle cx="64" cy="472" r="11" fill="#A6303E"/>
+<text x="64" y="472" font-size="11" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">1</text>
+<text x="92" y="468" font-size="14" font-weight="500" fill="#1A1416">Hero 首屏</text>
+<text x="92" y="485" font-size="12" fill="#8A7F7C">隊名 · 標語 · 倒數 · 籌款進度條</text>
+<text x="624" y="472" font-size="11" fill="#A6303E" text-anchor="end" dominant-baseline="central">捐款入口</text>
+
+<rect x="40" y="504" width="600" height="48" rx="10" fill="#FAF7F4" stroke="#E6DCD8" stroke-width="0.5"/>
+<circle cx="64" cy="528" r="11" fill="#532F39"/>
+<text x="64" y="528" font-size="11" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">2</text>
+<text x="92" y="524" font-size="14" font-weight="500" fill="#1A1416">我們為什麼走</text>
+<text x="92" y="541" font-size="12" fill="#8A7F7C">五人五志，各自出發的理由</text>
+
+<rect x="40" y="560" width="600" height="48" rx="10" fill="#FAF7F4" stroke="#E6DCD8" stroke-width="0.5"/>
+<circle cx="64" cy="584" r="11" fill="#532F39"/>
+<text x="64" y="584" font-size="11" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">3</text>
+<text x="92" y="580" font-size="14" font-weight="500" fill="#1A1416">隊伍的故事</text>
+<text x="92" y="597" font-size="12" fill="#8A7F7C">「朽木」之名由來 · 朽木猶可雕，歷練成君子</text>
+
+<rect x="40" y="616" width="600" height="48" rx="10" fill="#FAF7F4" stroke="#E6DCD8" stroke-width="0.5"/>
+<circle cx="64" cy="640" r="11" fill="#532F39"/>
+<text x="64" y="640" font-size="11" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">4</text>
+<text x="92" y="636" font-size="14" font-weight="500" fill="#1A1416">五位隊員</text>
+<text x="92" y="653" font-size="12" fill="#8A7F7C">姓名 · 訓練照</text>
+
+<rect x="40" y="672" width="600" height="48" rx="10" fill="#FBEFF0" stroke="#D9A3A8" stroke-width="0.5"/>
+<circle cx="64" cy="696" r="11" fill="#A6303E"/>
+<text x="64" y="696" font-size="11" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">5</text>
+<text x="92" y="692" font-size="14" font-weight="500" fill="#1A1416">立即捐助</text>
+<text x="92" y="709" font-size="12" fill="#8A7F7C">全數導向樂施會官方捐款渠道</text>
+<text x="624" y="696" font-size="11" fill="#A6303E" text-anchor="end" dominant-baseline="central">捐款入口</text>
+
+<rect x="40" y="728" width="600" height="48" rx="10" fill="#FAF7F4" stroke="#E6DCD8" stroke-width="0.5"/>
+<circle cx="64" cy="752" r="11" fill="#532F39"/>
+<text x="64" y="752" font-size="11" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">6</text>
+<text x="92" y="748" font-size="14" font-weight="500" fill="#1A1416">善款去向</text>
+<text x="92" y="765" font-size="12" fill="#8A7F7C">樂施會扶貧項目 · 金額換算實例</text>
+
+<rect x="40" y="784" width="600" height="48" rx="10" fill="#FAF7F4" stroke="#E6DCD8" stroke-width="0.5"/>
+<circle cx="64" cy="808" r="11" fill="#532F39"/>
+<text x="64" y="808" font-size="11" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">7</text>
+<text x="92" y="804" font-size="14" font-weight="500" fill="#1A1416">100 公里路線</text>
+<text x="92" y="821" font-size="12" fill="#8A7F7C">麥理浩徑 · 檢查站 CP1–CP9 · 30 小時 · 活動日追蹤</text>
+
+<rect x="40" y="840" width="600" height="48" rx="10" fill="#FAF7F4" stroke="#E6DCD8" stroke-width="0.5"/>
+<circle cx="64" cy="864" r="11" fill="#532F39"/>
+<text x="64" y="864" font-size="11" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">8</text>
+<text x="92" y="860" font-size="14" font-weight="500" fill="#1A1416">訓練實錄</text>
+<text x="92" y="877" font-size="12" fill="#8A7F7C">縮圖牆 · 雙擊放大至原尺寸 · 相片由「照片」資料夾載入</text>
+
+<rect x="40" y="896" width="600" height="48" rx="10" fill="#FBEFF0" stroke="#D9A3A8" stroke-width="0.5"/>
+<circle cx="64" cy="920" r="11" fill="#A6303E"/>
+<text x="64" y="920" font-size="11" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">9</text>
+<text x="92" y="916" font-size="14" font-weight="500" fill="#1A1416">支援隊 Support Team</text>
+<text x="92" y="933" font-size="12" fill="#8A7F7C">縮圖牆 · 雙擊放大至原尺寸 · 相片由 support team 資料夾載入</text>
+<text x="624" y="920" font-size="11" fill="#A6303E" text-anchor="end" dominant-baseline="central">新</text>
+
+<rect x="40" y="952" width="600" height="48" rx="10" fill="#FAF7F4" stroke="#E6DCD8" stroke-width="0.5"/>
+<circle cx="64" cy="976" r="11" fill="#532F39"/>
+<text x="64" y="976" font-size="11" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">10</text>
+<text x="92" y="972" font-size="14" font-weight="500" fill="#1A1416">鳴謝與常見問題</text>
+<text x="92" y="989" font-size="12" fill="#8A7F7C">收據與扣稅 · 私隱安排</text>
+
+<rect x="40" y="1008" width="600" height="48" rx="10" fill="#F2EDE9" stroke="#E6DCD8" stroke-width="0.5"/>
+<circle cx="64" cy="1032" r="11" fill="#8A7F7C"/>
+<text x="64" y="1032" font-size="11" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">11</text>
+<text x="92" y="1028" font-size="14" font-weight="500" fill="#1A1416">Footer</text>
+<text x="92" y="1045" font-size="12" fill="#8A7F7C">朽木 Instagram ＠rottenwood__ · 免責聲明 · 非樂施會官方網站聲明</text>
+
+<text x="40" y="1070" font-size="11" fill="#8A7F7C">※ 全站手機優先；首屏與捐助區各設一顆固定「立即捐助」按鈕</text>
+</svg>
